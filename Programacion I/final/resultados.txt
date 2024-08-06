@@ -1,0 +1,5 @@
+Región  Promedio de precipitaciones
+1  23
+2  23
+3  25
+Cantidad de Regiones: 3

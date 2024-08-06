@@ -1,0 +1,5 @@
+Informe de Producción
+Total de mediciones: 10
+Cantidad de piezas con medida = Diametro: 4
+Cantidad de piezas con medida menor al Diametro: 2
+Cantidad de piezas con medida 5% más grande que el Diametro: 1

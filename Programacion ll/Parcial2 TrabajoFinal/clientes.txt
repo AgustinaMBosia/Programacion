@@ -1,0 +1,1 @@
+dni nombre ingreso estado nivel saldo_pesos saldo_dolares
