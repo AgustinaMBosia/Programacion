@@ -1,0 +1,22 @@
+{
+    "nombreAlumna": "AgustinaMBosia",
+    "version": "1.0.0",
+    "materia": "Arqui de Software",
+    "nombreDelProfe":"Gerardo",
+    "horaDeInicio":17,
+    "horaDeFinalizacion":"20:00",
+    "semestreCarrera": "5to",
+    "anio": 2025,
+    "keyRedesSociales": {
+        "instagram": "usuario",
+        "twitter": "usuario",
+        "facebook": "agustina"
+    },
+    "estamosEnClase": true,
+    "ventanasCerradas":[
+        false,
+        true,
+        true,
+        false
+    ]
+}
